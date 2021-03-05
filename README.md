@@ -1,5 +1,6 @@
 # MapTileLoadingError
 A sample app to show the tile loading error happening in Google Maps.
+Please add `MAPS_API_KEY=<API_KEY>` in `local.properties` to get it to work.
 
 The error which I'm facing in this app is that while the map is tracking a live location (which has been simulated here using a fixed route), the map tiles do not load. This happens both for vector and raster map tiles. This repo only has the vector tiles, but the issue is visible on this as well. 
 
