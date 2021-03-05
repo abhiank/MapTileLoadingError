@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nav_current_loc_marker_height_width">52dp</dimen>
+</resources>
